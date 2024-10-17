@@ -16,7 +16,6 @@
 ![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 
-
 **DevOps**
 
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
@@ -27,7 +26,6 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
 
-
 <br/>
 
 <a href="https://github.com/iuricode" title="Perfil do Cristiano">
@@ -36,5 +34,5 @@
 
 ## Onde me encontrar
 
-[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&https://www.linkedin.com/in/cris-rosapenna/)](https://www.linkedin.com/in/cris-rosapenna/)
+[![Linkedin](https://img.shields.io/badge/-cris-rosapenna-blue?style=flat-square&logo=Linkedin&logoColor=white&https://www.linkedin.com/in/cris-rosapenna/)](https://www.linkedin.com/in/cris-rosapenna/)
 [![GitHub](https://img.shields.io/github/followers/crispenna-123?label=follow&style=social)](https://github.com/crispenna-123)
