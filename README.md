@@ -36,5 +36,5 @@
 
 ## Onde me encontrar
 
-[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cris-rosapenna/)](https://www.linkedin.com/in/cris-rosapenna/)
+[![Linkedin](https://img.shields.io/badge/-crispenna-123-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cris-rosapenna/)](https://www.linkedin.com/in/cris-rosapenna/)
 [![GitHub](https://img.shields.io/github/followers/crispenna-123?label=follow&style=social)](https://github.com/crispenna-123)
