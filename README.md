@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=crispenna-123&color=006bed)
+
 
 ## Sobre mim
 
