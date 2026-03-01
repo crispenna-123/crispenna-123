@@ -3,7 +3,7 @@
 ## Sobre mim
 
 - 🎓 Estudante de Analise e Desenvolvimento de Sistemas.
-- 🎓 Estudante de Jogos Digitais.
+
 
 ## Minhas Skills
 
