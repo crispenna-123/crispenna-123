@@ -28,10 +28,6 @@
 
 <br/>
 
-<a href="https://github.com/crispenna-123" title="Perfil do Cristiano">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=crispenna-123&theme=dracula&show_icons=true" />
-</a>
-
 ## Onde me encontrar
 
 [![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&https://www.linkedin.com/in/cris-rosapenna/)](https://www.linkedin.com/in/cris-rosapenna/)
